@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.auth-form h2 {
+    text-align: center;
+}
+
+.auth-form p {
+    text-align: center;
+}
+
+.welcome-body {
+    text-align: center;
+}
